@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Wanayhtun]]></title>
+  <link href="http://wanayhtun.github.io/atom.xml" rel="self"/>
+  <link href="http://wanayhtun.github.io/"/>
+  <updated>2014-11-04T21:30:57+06:30</updated>
+  <id>http://wanayhtun.github.io/</id>
+  <author>
+    <name><![CDATA[Wanayhtun]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
