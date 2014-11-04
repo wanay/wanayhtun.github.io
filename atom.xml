@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Wanayhtun]]></title>
-  <link href="http://wanayhtun.github.io/atom.xml" rel="self"/>
-  <link href="http://wanayhtun.github.io/"/>
-  <updated>2014-11-04T21:30:57+06:30</updated>
-  <id>http://wanayhtun.github.io/</id>
+  <link href="http://wanay.github.io/atom.xml" rel="self"/>
+  <link href="http://wanay.github.io/"/>
+  <updated>2014-11-04T21:43:48+06:30</updated>
+  <id>http://wanay.github.io/</id>
   <author>
     <name><![CDATA[Wanayhtun]]></name>
     
